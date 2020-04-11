@@ -3,3 +3,57 @@
     margin: 0;
     padding: 0;
 }
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+body
+{
+    background-color: darkgray;
+}
+
+#belowNav
+{
+    margin-top: 50px;
+}
+
+.title
+{
+    margin-top: 50px;
+    width: 100vw;
+}
+
+.titleimg
+{
+    width: 100vw;
+}
+
+#profilePic
+{
+    border-radius: 20px;
+}
+
+.btn
+{
+    margin: 10px;
+    width: 90%;
+}
+
+.icons
+{
+    height: 10%;
+    width: 10%;
+}
+
+.projectImages
+{
+    width: 90%;
+    height: 90%;
+}
+
+footer
+{
+    width: 100vw;
+}
